@@ -1,4 +1,4 @@
-# Python-Selenium
+# Automated Facebook Posting with Python & Selenium
 
 Three days week I post a YouTube link to a Facebook page for a client and I wanted to see how I could automate this process.
 
